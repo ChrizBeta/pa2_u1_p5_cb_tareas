@@ -14,7 +14,7 @@ public class Pa2U1P5CbTareasApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		
-		System.out.println("PUNTO 2: CAMBIO Y MISMA RAMA");
+		System.out.println("PUNTO 3: CAMBIO Y OTRA RAMA");
 		
 	}
 
